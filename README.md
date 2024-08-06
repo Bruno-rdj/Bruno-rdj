@@ -14,3 +14,9 @@
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 
 Construindo o futuro na área de tecnologia
+
+## Você pode entrar em contato comigo pelo
+
+Email: brunorochaj250705@gmailcom
+
+Celular: (+55) 11 94462-4907
