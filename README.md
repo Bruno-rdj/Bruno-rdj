@@ -19,4 +19,4 @@ Construindo o futuro na área de tecnologia
 
 Email: brunorochaj250705@gmail.com
 
-Celular: (+55) 11 94462-4907
+Celular: 11 94462-4907
