@@ -1,4 +1,4 @@
-### Óla!Seja bem-vindo ao meu perfil, eu sou o Bruno Rocha 🖐️
+### Óla! Seja bem-vindo ao meu perfil, eu sou o Bruno Rocha 🖐️
 
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-rdj&show_icons=true&theme=dark)
