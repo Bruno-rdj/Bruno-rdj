@@ -1,4 +1,4 @@
-### Óla! Seja bem-vindo ao meu perfil, eu sou o Bruno Rocha 🖐️
+### Óla! Seja bem-vindo ao meu perfil. Sou o Bruno Rocha, Estudante de Analise e Desivolvimento de Sistemas na faculdade Unifaat🖐️
 
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-rdj&show_icons=true&theme=dark)
