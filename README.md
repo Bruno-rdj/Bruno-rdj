@@ -1,4 +1,4 @@
-### Óla! Seja bem-vindo ao meu perfil. Sou o Bruno Rocha, Estudante de Análise e Desenvolvimento de Sistemas na faculdade Unifaat 🖐️
+### Óla! Seja bem-vindo ao meu perfil. Sou o Bruno Rocha, Estudante de Análise e Desenvolvimento de Sistemas na faculdade Unifaat em Atibaia 🖐️
 
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-rdj&show_icons=true&theme=dark)
