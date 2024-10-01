@@ -1,4 +1,4 @@
-### Óla! Seja bem-vindo ao meu perfil. Sou o Bruno Rocha, Estudante de Análise e Desenvolvimento de Sistemas na faculdade Unifaat em Atibaia 🖐️
+### Óla! Seja bem-vindo ao meu perfil. Sou o Bruno Rocha 🖐️
 
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-rdj&show_icons=true&theme=dark)
@@ -15,7 +15,7 @@
 </div>
 
 
-### Você pode entrar em contato comigo pelos ícones abaixo, Clique um dos ícones abaixo que você será redirecionado.
+### Você pode entrar em contato comigo pelo
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rocha-0b8057303/)
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511944624907)
