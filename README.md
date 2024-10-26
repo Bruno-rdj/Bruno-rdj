@@ -4,7 +4,7 @@
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-rdj&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rdj&layout=compact)
 
-### Tecnologias que uso ou que estou apredendo no meu dia:
+### Tecnologias que uso ou que estou apredendo no meu dia 🧑🏻‍💻:
 
 
 <div style="display: inline_block"><br>
@@ -15,7 +15,7 @@
 </div>
 
 
-### Você pode entrar em contato comigo pelo:
+### Você pode entrar em contato comigo pelo ✉️:
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rocha-0b8057303/)
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511944624907)
