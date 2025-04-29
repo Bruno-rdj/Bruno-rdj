@@ -4,7 +4,7 @@
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-rdj&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rdj&layout=compact)
 
-### 💻 - Tecnologias que uso ou que estou apredendo no meu dia:
+### 💻 - Tecnologias que estou apredendo no meu dia:
 
 
 <div style="display: inline_block"><br>
