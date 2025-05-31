@@ -1,14 +1,22 @@
 ### Óla! Seja bem-vindo ao meu perfil. Eu sou o Bruno Rocha 🖐️
+<div>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bruno-rdj&show_icons=true&theme=dark"/> 
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rdj&layout=compact&langs_count=16&theme=dark"/> 
+</div>
 
+### 🚀 - Projetos em destaque
+- [Sistema de Gestão Escolar]( )<br/>
+- [API de Gerenciamento de Clientes](https://github.com/Bruno-rdj/TF-Web.API.git)<br/>
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-rdj&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rdj&layout=compact)
 
 ### 💻 - Tecnologias que estou apredendo no meu dia:
 
-
 <div style="display: inline_block"><br>
     <img align="center" alt="Bruno-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> 
+    <img align="center" alt="Bruno-Docker" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg">
+    <img align="center" alt="Bruno-GitHub" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+    <img align="center" alt="Bruno-Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> 
+    <img align="center" alt="Bruno-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div>
