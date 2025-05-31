@@ -7,13 +7,13 @@
 ---
 
 ### 🚀 - Projetos em destaque
-- [Sistema de Gestão Escolar]( ) - (Projeto está em fase de andamento)
+- [Sistema de Gestão Escolar](#) - (Projeto está em fase de andamento)
   
 - [API de Gerenciamento de Clientes](https://github.com/Bruno-rdj/TF-Web.API.git) - Este projeto implementa uma API para gerenciamento de clientes, permitindo cadastrar, consultar, atualizar e excluir registros de clientes.
 
 ---
 
-### 💻 - Tecnologias que estou apredendo no meu dia:
+### 💻 - Tecnologias que estou aprendendo:
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Bruno-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> 
@@ -27,7 +27,7 @@
 
 ---
 
-### ✉️ - Você pode entrar em contato comigo pelo:
+### ✉️ - Entre em contato comigo:
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rocha-0b8057303/)
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511944624907)
