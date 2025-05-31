@@ -5,8 +5,9 @@
 </div>
 
 ### 🚀 - Projetos em destaque
-- [Sistema de Gestão Escolar]( )<br/>
-- [API de Gerenciamento de Clientes](https://github.com/Bruno-rdj/TF-Web.API.git)<br/>
+- [Sistema de Gestão Escolar]( )
+  
+- [API de Gerenciamento de Clientes](https://github.com/Bruno-rdj/TF-Web.API.git) - Este projeto implementa uma API para gerenciamento de clientes, permitindo cadastrar, consultar, atualizar e excluir registros de clientes.
 
 
 ### 💻 - Tecnologias que estou apredendo no meu dia:
