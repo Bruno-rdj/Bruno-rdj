@@ -9,6 +9,7 @@
   
 - [API de Gerenciamento de Clientes](https://github.com/Bruno-rdj/TF-Web.API.git) - Este projeto implementa uma API para gerenciamento de clientes, permitindo cadastrar, consultar, atualizar e excluir registros de clientes.
 
+<br/>
 
 ### 💻 - Tecnologias que estou apredendo no meu dia:
 
@@ -22,6 +23,7 @@
     <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div>
 
+<br/>
 
 ### ✉️ - Você pode entrar em contato comigo pelo:
 
