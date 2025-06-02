@@ -11,10 +11,9 @@
 #### [Sistema de Gestão Escolar](#) - (Projeto está em fase de andamento)
   
 #### [API de Gerenciamento de Clientes](https://github.com/Bruno-rdj/TF-Web.API.git) 
-- Descrição: API RESTful para gerenciamento completo de clientes, implementando arquitetura MVC com validação avançada de dados, sistema de autenticação seguro e documentação interativa. Oferece operações CRUD completas, filtragem dinâmica por múltiplos parâmetros e geração de relatórios personalizados.
+- Descrição: API RESTful para gerenciamento completo de clientes com CRUD, validação de dados (CPF, campos obrigatórios), filtragem por nome e cidade, paginação de resultados, documentação interativa com Swagger, autenticação via middleware e relatórios com filtros.
 
-- Tecnologias: Node.js, Express.js, PostgreSQL, Sequelize ORM, Docker & Docker Compose, Swagger UI, JWT
-
+- Tecnologias: Node.js, Express.js, PostgreSQL, Sequelize ORM, Docker & Docker Compose, Swagger
 
 ---
 
