@@ -1,4 +1,4 @@
-### Óla! Seja bem-vindo ao meu perfil. Eu sou o Bruno Rocha 🖐️
+### Olá! Seja bem-vindo ao meu perfil. Eu sou o Bruno Rocha 🖐️
 <div>
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bruno-rdj&show_icons=true&theme=dark"/> 
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rdj&layout=compact&langs_count=16&theme=dark"/> 
@@ -7,9 +7,14 @@
 ---
 
 ### 🚀 - Projetos em destaque
-- [Sistema de Gestão Escolar](#) - (Projeto está em fase de andamento)
+
+#### [Sistema de Gestão Escolar](#) - (Projeto está em fase de andamento)
   
-- [API de Gerenciamento de Clientes](https://github.com/Bruno-rdj/TF-Web.API.git) - Este projeto implementa uma API para gerenciamento de clientes, permitindo cadastrar, consultar, atualizar e excluir registros de clientes.
+#### [API de Gerenciamento de Clientes](https://github.com/Bruno-rdj/TF-Web.API.git) 
+- Descrição: API RESTful para gerenciamento completo de clientes, implementando arquitetura MVC com validação avançada de dados, sistema de autenticação seguro e documentação interativa. Oferece operações CRUD completas, filtragem dinâmica por múltiplos parâmetros e geração de relatórios personalizados.
+
+- Tecnologias: Node.js, Express.js, PostgreSQL, Sequelize ORM, Docker & Docker Compose, Swagger UI, JWT
+
 
 ---
 
