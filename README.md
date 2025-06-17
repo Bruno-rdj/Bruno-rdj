@@ -8,7 +8,7 @@
 
 ### 🚀 - Projetos em destaque
 
-#### [Sistema de Gestão Escolar](#) - Andamento
+#### [Sistema de Gestão Escolar](https://github.com/LucasDeSouzaLemes/Faculdade.git) - Andamento
 - Descrição:
 
 - Tecnologias:
