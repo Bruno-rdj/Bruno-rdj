@@ -8,15 +8,9 @@
 
 ### 🚀 - Projetos em destaque
 
-#### [Sistema de Gestão Escolar](https://github.com/LucasDeSouzaLemes/Faculdade.git) - Andamento
-- Descrição:
-
-- Tecnologias:
+#### [Sistema de Gestão Escolar](https://github.com/LucasDeSouzaLemes/Faculdade.git) - Este projeto consiste em um sistema de gerenciamento de alunos, desenvolvido como backend com API RESTful. O sistema permite gerenciar alunos, suas matrículas e notas.
   
-#### [API de Gerenciamento de Clientes](https://github.com/Bruno-rdj/TF-Web.API.git) - Concluído
-- Descrição: API RESTful para gerenciamento completo de clientes com CRUD, validação de dados (CPF, campos obrigatórios), filtragem por nome e cidade, paginação de resultados, documentação interativa com Swagger, autenticação via middleware e relatórios com filtros.
-
-- Tecnologias: Node.js, Express.js, PostgreSQL, Sequelize ORM, Docker & Docker Compose, Swagger
+#### [API de Gerenciamento de Clientes](https://github.com/Bruno-rdj/TF-Web.API.git) - API RESTful para gerenciamento completo de clientes com CRUD, validação de dados (CPF, campos obrigatórios), filtragem por nome e cidade, paginação de resultados, documentação interativa com Swagger, autenticação via middleware e relatórios com filtros.
 
 ---
 
