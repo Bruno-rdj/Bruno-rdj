@@ -1,41 +1,39 @@
-### Olá! Seja bem-vindo ao meu perfil. Eu sou o Bruno Rocha 🖐️
+# 🖐️ Olá! Seja bem-vindo ao meu perfil. Eu sou o Bruno Rocha
+<p align="left">
+  Desenvolvedor em formação, Sou Formado em Asssistente Administrativo pelo SENAI-Bragança Paulista, Graduado em Análise e Desenvolvimento de Sistemas na Unifaat-Atibaia Atuamente Estou no 4° semestre
+</p>
+
+## Sobre mim
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas na Unifaat 4/5
+- 📒 Técnica em Asssistente Administrativo pelo SENAI
+- 🖥️ Desenvolvedor em Back-End
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruno-rdj/Bruno-rdj/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruno-rdj/Bruno-rdj/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bruno-rdj/Bruno-rdj/output/pacman-contribution-graph.svg">
+</picture>
+
+## ⭐ GitHub Stats
 <div>
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bruno-rdj&show_icons=true&theme=dark"/> 
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rdj&layout=compact&langs_count=16&theme=dark"/> 
 </div>
 
----
+## 💻 Tecnologias e Linguagens
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,docker)](https://skillicons.dev)
 
-### 🚀 - Projetos em destaque
+## 🛠️ Ferramentas de Desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-#### [Sistema de Gestão Escolar](https://github.com/LucasDeSouzaLemes/Faculdade.git) - Este projeto consiste em um sistema de gerenciamento de alunos, desenvolvido como backend com API RESTful. O sistema permite gerenciar alunos, suas matrículas e notas.
-  
-#### [API de Gerenciamento de Clientes](https://github.com/Bruno-rdj/TF-Web.API.git) - API RESTful para gerenciamento completo de clientes com CRUD, validação de dados (CPF, campos obrigatórios), filtragem por nome e cidade, paginação de resultados, documentação interativa com Swagger, autenticação via middleware e relatórios com filtros.
 
----
-
-### 💻 - Tecnologias que estou aprendendo:
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="Bruno-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> 
-    <img align="center" alt="Bruno-Docker" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg">
-    <img align="center" alt="Bruno-GitHub" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-    <img align="center" alt="Bruno-Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> 
-    <img align="center" alt="Bruno-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-    <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-</div>
-
----
-
-### ✉️ - Entre em contato comigo:
+## ✉️ Pode Entrar em Contato Comigo Pelo meu Linkedin,Gmail ou Pelo Whatsapp:
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rocha-0b8057303/)
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511944624907)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunorochaj250705@gmail.com)
 
-![Snake animation](https://github.com/Bruno-rdj/Bruno-rdj/blob/output/github-contribution-grid-snake.svg)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
 
 
 
