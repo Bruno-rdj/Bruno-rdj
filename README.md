@@ -33,6 +33,14 @@
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511944624907)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunorochaj250705@gmail.com)
 
+<div align="center">
+  
+  [![Bruno Rocha github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bruno-rdj&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <img src="https://streak-stats.demolab.com?user=Bruno-rdj&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=Bruno-rdj&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
 
 
