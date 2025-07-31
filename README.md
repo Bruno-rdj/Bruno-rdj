@@ -15,10 +15,10 @@
 </picture>
 
 ## ⭐ GitHub Stats
-<div>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bruno-rdj&show_icons=true&theme=dark"/> 
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rdj&layout=compact&langs_count=16&theme=dark"/> 
-</div>
+
+<a href="https://github.com/Bruno-rdj">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-rdj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-rdj&layout=compact&langs_count=6&theme=dark"/>
 
 ## 💻 Tecnologias e Linguagens
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,docker)](https://skillicons.dev)
