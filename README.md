@@ -5,7 +5,7 @@
 
 ## Sobre mim
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas na Unifaat 4/5
-- 📒 Técnica em Asssistente Administrativo pelo SENAI
+- 📒 Técnico em Asssistente Administrativo pelo SENAI
 - 🖥️ Desenvolvedor em Back-End
 
 <picture>
