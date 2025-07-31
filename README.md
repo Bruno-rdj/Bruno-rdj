@@ -1,6 +1,6 @@
 # 🖐️ Olá! Seja bem-vindo ao meu perfil. Eu sou o Bruno Rocha
 <p align="left">
-  Desenvolvedor em formação, Sou Formado em Asssistente Administrativo pelo SENAI-Bragança Paulista, Graduado em Análise e Desenvolvimento de Sistemas na Unifaat-Atibaia Atuamente Estou no 4° semestre
+  Desenvolvedor em formação, Sou Formado em Asssistente Administrativo pelo SENAI - Bragança Paulista, Graduado em Análise e Desenvolvimento de Sistemas na Unifaat - Atibaia Atuamente Estou no 4° semestre.
 </p>
 
 ## Sobre mim
