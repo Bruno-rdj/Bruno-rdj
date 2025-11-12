@@ -1,8 +1,6 @@
-## 🖐️ Olá! Seja Bem-Vindo ao Meu Perfil. Eu sou o Bruno Rocha
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:e61c9b,100:10002B&height=120&section=header"/>
 
-## Sobre mim
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas na Unifaat - 4/5
-- 🖥️ Desenvolvedor em Back-End
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e61c9b&size=35&center=true&vCenter=true&width=1000&lines=🖐️+Olá,+Seja+Bem-Vindo+ao+Meu+Perfil;Me+Chamo+Bruno+Rocha,+Tenho+20+Anos;Estudo+Analise+Desenvolvimento+de+Sistema+na+Unifaat)](https://git.io/typing-svg) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruno-rdj/Bruno-rdj/output/pacman-contribution-graph-dark.svg">
