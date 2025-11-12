@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:e61c9b,100:10002B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0E5455,100:0E5455&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e61c9b&size=35&center=true&vCenter=true&width=1000&lines=🖐️+Olá,+Seja+Bem-Vindo+ao+Meu+Perfil;Me+Chamo+Bruno+Rocha,+Tenho+20+Anos;Estudo+Analise+Desenvolvimento+de+Sistema+na+Unifaat)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E5455&size=35&center=true&vCenter=true&width=1000&lines=🖐️+Olá,+Seja+Bem-Vindo+ao+Meu+Perfil;Me+Chamo+Bruno+Rocha,+Tenho+20+Anos;Estudo+Analise+Desenvolvimento+de+Sistema+na+Unifaat)](https://git.io/typing-svg) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruno-rdj/Bruno-rdj/output/pacman-contribution-graph-dark.svg">
@@ -27,7 +27,7 @@
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511944624907)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunorochaj250705@gmail.com)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0E5455,100:0E5455"/>
 
 
 
