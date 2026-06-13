@@ -29,7 +29,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruno-rdj&theme=dark&ring=0E5455&fire=0E5455&currStreakLabel=0E5455&hide_border=true&background=0d1117" alt="streak stats"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bruno-rdj&theme=darkhub&row=1&column=6&no-frame=true&margin-w=10" alt="trophies"/>
 
 </div>
 
